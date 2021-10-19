@@ -16,6 +16,13 @@ The organization of this document probably seems strange. That's because it's pa
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
+.tabset means anything that starts w header the next level down, will make a new tab on your output document
+Anything with 4 # will be a new tab
+
+#### Ringtail cat
+
+![Ringtail cat (courtest of VA Zoo)](img/ringtail_cat.jpg)
+
 #### SHARKS!!!
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
